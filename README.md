@@ -5,7 +5,7 @@
 Currently a proud SRE@Criteo in Network datacenter team.
 
 - 🔭 I’m currently working on a major network automation project
-- 💬 Ask me about **Python, Golang, Network, SONiC**
+- 💬 Ask me about **Python, Golang, Network, Saltstack, SONiC**
 
 ### My work
 
