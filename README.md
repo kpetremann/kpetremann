@@ -12,9 +12,9 @@ Currently a proud SRE@Criteo in Network datacenter team.
 | **Project** | **Category** | **Opensource** | **Status** | **Tech** | **Repository** |
 |---|---|---|---|---|---|
 | netprobify | Probing | true | stable | Python | [link](https://github.com/criteo/netprobify) |
-| mqtt-exporter | IoT | true | stable | Python | [link](https://github.com/kpetremann/mqtt-exporter) |
-| salt-exporter | Infrastructure tooling | true | stable | Go | [link](https://github.com/kpetremann/salt-exporter) |
-| ClawNetwork | Infrastructure tooling | true | alpha | Go | [link](https://github.com/kpetremann/claw-network) |
+| mqtt-exporter | IoT, observability | true | stable | Python | [link](https://github.com/kpetremann/mqtt-exporter) |
+| salt-exporter | Infrastructure, observability | true | stable | Go | [link](https://github.com/kpetremann/salt-exporter) |
+| ClawNetwork | Infrastructure | true | alpha | Go | [link](https://github.com/kpetremann/claw-network) |
 | 2D game | Game development | false | prototype | Go, Ebitengine, LDTK |  |
 
 ### Languages and Tools
