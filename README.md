@@ -4,7 +4,7 @@
 
 Currently a proud SRE@Criteo in Network datacenter team.
 
-- 🔭 I’m currently working on network automation project
+- 🔭 I’m currently working on a major network automation project
 - 💬 Ask me about **Python, Golang, Network, SONiC**
 
 <details>
