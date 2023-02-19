@@ -7,6 +7,8 @@ Currently a proud SRE@Criteo in Network datacenter team.
 - 🔭 I’m currently working on a major network automation project
 - 💬 Ask me about **Python, Golang, Network, SONiC**
 
+### My work
+
 | **Project** | **Category** | **Opensource** | **Status** | **Tech** | **Repository** |
 |---|---|---|---|---|---|
 | netprobify | Probing | true | stable | Python | [link](https://github.com/criteo/netprobify) |
@@ -14,9 +16,6 @@ Currently a proud SRE@Criteo in Network datacenter team.
 | salt-exporter | Infrastructure tooling | true | stable | Go | [link](https://github.com/kpetremann/salt-exporter) |
 | ClawNetwork | Infrastructure tooling | true | alpha | Go | [link](https://github.com/kpetremann/claw-network) |
 | 2D game | Game development | false | prototype | Go, Ebitengine, LDTK |  |
-
-
-</details>
 
 ### Languages and Tools
 
