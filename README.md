@@ -7,63 +7,14 @@ Currently a proud SRE@Criteo in Network datacenter team.
 - 🔭 I’m currently working on a major network automation project
 - 💬 Ask me about **Python, Golang, Network, SONiC**
 
-<details>
-  <summary>My projects</summary>
+| **Project** | **Category** | **Opensource** | **Status** | **Tech** | **Repository** |
+|---|---|---|---|---|---|
+| netprobify | Probing | true | stable | Python | [link](https://github.com/criteo/netprobify) |
+| mqtt-exporter | IoT | true | stable | Python | [link](https://github.com/kpetremann/mqtt-exporter) |
+| salt-exporter | Infrastructure tooling | true | stable | Go | [link](https://github.com/kpetremann/salt-exporter) |
+| ClawNetwork | Infrastructure tooling | true | alpha | Go | [link](https://github.com/kpetremann/claw-network) |
+| 2D game | Game development | false | prototype | Go, Ebitengine, LDTK |  |
 
-```json
-[
-    {
-        "Project": "mqtt-exporter",
-        "Category": "IoT",
-        "Opensource": true,
-        "Repository": "https://github.com/kpetremann/mqtt-exporter",
-        "Status": "stable",
-        "Link": "",
-        "Language": "Python"
-    },
-    {
-        "Project": "salt-exporter",
-        "Category": "Infrastructure tooling",
-        "Opensource": true,
-        "Repository": "https://github.com/kpetremann/salt-exporter",
-        "Status": "stable",
-        "Link": "",
-        "Language": "Python"
-    },
-    {
-        "Project": "netprobify",
-        "Category": "Probing",
-        "Opensource": true,
-        "Repository": "https://github.com/criteo/netprobify",
-        "Status": "stable",
-        "Link": "",
-        "Language": "Python"
-    },
-    {
-        "Project": "ClawNetwork",
-        "Category": "Infrastructure tooling",
-        "Opensource": true,
-        "Repository": "https://github.com/kpetremann/claw-network",
-        "Status": "alpha"
-        "Language": "Go",
-    },
-    {
-        "Project": "Culture Games",
-        "Category": "Infrastructure management",
-        "Opensource": true,
-        "Status": "stable",
-        "Tech": "Docker, Saltstack, Prometheus"
-    },
-    {
-        "Project": "2D game",
-        "Category": "Game development",
-        "Opensource": false,
-        "Status": "active development",
-        "Language": "Go",
-        "Tech": "Ebitengine, LDTK"
-    }
-]
-```
 
 </details>
 
