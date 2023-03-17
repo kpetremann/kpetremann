@@ -4,7 +4,7 @@
 
 Currently a proud SRE@Criteo in Network datacenter team.
 
-- 🔭 I’m currently working on a major **network automation project**
+- 🔭 I’m currently working on a major [**network automation project**](https://github.com/criteo/AFK) at Criteo.
 - 💬 Ask me about **Python, Golang, Network, Saltstack, openconfig, SONiC**
 
 ### My work
