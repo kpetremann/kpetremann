@@ -9,13 +9,13 @@ Currently a proud SRE@Criteo in Network datacenter team.
 
 ### My work
 
-| **Project** | **Category** | **Opensource** | **Status** | **Tech** | **Repository** |
-|---|---|---|---|---|---|
-| netprobify | Probing | true | stable | Python | [link](https://github.com/criteo/netprobify) |
-| mqtt-exporter | IoT, observability | true | stable | Python | [link](https://github.com/kpetremann/mqtt-exporter) |
-| salt-exporter | Infrastructure, observability | true | stable | Go | [link](https://github.com/kpetremann/salt-exporter) |
-| ClawNetwork | Infrastructure | true | alpha | Go | [link](https://github.com/kpetremann/claw-network) |
-| 2D game | Game development | false | prototype | Go, Ebitengine, LDTK |  |
+| **Project** | **Category** | **Opensource** | **Status** | **Tech** |
+|---|---|---|---|---|
+| [netprobify](https://github.com/criteo/netprobify) | Probing | true | stable | Python|
+| [mqtt-exporter](https://github.com/kpetremann/mqtt-exporter) | IoT, observability | true | stable | Python |
+| [salt-exporter](https://github.com/kpetremann/salt-exporter) | Infrastructure, observability | true | stable | Go |
+| [ClawNetwork](https://github.com/kpetremann/claw-network) | Infrastructure | true | alpha | Go |
+| 2D game | Game development | false | prototype | Go, Ebitengine, LDTK |
 
 ### Languages and Tools
 
