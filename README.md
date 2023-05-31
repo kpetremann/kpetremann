@@ -1,4 +1,4 @@
-<h3 align="center">An automation lover</h3>
+<h3 align="center">Automation enthusiast</h3>
 
 ### A little about me
 
