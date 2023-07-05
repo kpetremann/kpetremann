@@ -5,7 +5,7 @@
 Currently a proud SRE@Criteo in Network datacenter team.
 
 - 🔭 I’m currently working on [**AFK**](https://criteo.github.io/AFK), the new Criteo's network automation framework.
-- 💬 Ask me about **Python, Golang, Network, Saltstack, Open Config, SONiC**
+- 💬 Ask me about **Python, Golang, Network, Saltstack, OpenConfig, SONiC**
 
 ### My work
 
