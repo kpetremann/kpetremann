@@ -2,20 +2,29 @@
 
 ### A little about me
 
-Currently a proud SRE@Criteo in Network datacenter team.
+Currently a proud SRE@Criteo in the Network Datacenter team.
 
-- 🔭 I’m currently working on [**AFK**](https://criteo.github.io/AFK), the new Criteo's network automation framework.
-- 💬 Ask me about **Python, Golang, Network, Saltstack, OpenConfig, SONiC**
+- :telescope: I’m currently working on [**AFK**](https://criteo.github.io/AFK), the new Criteo's network automation framework.
+- :wrench: Actively maintaining [Salt Exporter](https://github.com/kpetremann/salt-exporter)  and [MQTT Exporter](https://github.com/kpetremann/mqtt-exporter)
+- :speech_balloon: Ask me about **Python, Golang, Network, Saltstack, OpenConfig, SONiC**
 
-### My work
+### My personal projects
 
 | **Project** | **Category** | **Opensource** | **Status** | **Tech** |
 |---|---|---|---|---|
-| [netprobify](https://github.com/criteo/netprobify) | Probing | true | stable | Python|
-| [mqtt-exporter](https://github.com/kpetremann/mqtt-exporter) | IoT, observability | true | stable | Python |
-| [salt-exporter](https://github.com/kpetremann/salt-exporter) | Infrastructure, observability | true | stable | Go |
+| [MQTT Exporter](https://github.com/kpetremann/mqtt-exporter) | IoT, observability | true | stable | Python |
+| [Salt Exporter](https://github.com/kpetremann/salt-exporter) | Infrastructure, observability | true | stable | Go |
+| [DHT2MQTT]([https://github.com/kpetremann/salt-exporter](https://github.com/kpetremann/dht2mqtt)) | IoT, observability | true | alpha | Go |
 | [ClawNetwork](https://github.com/kpetremann/claw-network) | Infrastructure | true | alpha | Go |
 | 2D game | Game development | false | prototype | Go, Ebitengine, LDTK |
+
+
+### My professional projects
+
+| **Project** | **Category** | **Opensource** | **Status** | **Tech** |
+|---|---|---|---|---|
+| [netprobify](https://github.com/criteo/netprobify) | Probing | true | stable | Python |
+| [AFK](https://criteo.github.io/AFK) | Infrastructure, network, automation | true | alpha | Go, Python, Salt, NetBox |
 
 ### Languages and Tools
 
@@ -29,7 +38,7 @@ Currently a proud SRE@Criteo in Network datacenter team.
 
 ### Support
 
-If you like my work, don't hesitate to buy me a coffee :)
+If you like my **personal** projects, don't hesitate to buy me a coffee :)
 
 <a href="https://www.buymeacoffee.com/kpetremann" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
