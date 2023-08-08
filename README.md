@@ -12,9 +12,9 @@ Currently a proud SRE@Criteo in the Network Datacenter team.
 
 | **Project** | **Category** | **Opensource** | **Status** | **Tech** |
 |---|---|---|---|---|
-| [MQTT Exporter](https://github.com/kpetremann/mqtt-exporter) | IoT, observability | true | stable | Python |
 | [Salt Exporter](https://github.com/kpetremann/salt-exporter) | Infrastructure, observability | true | stable | Go |
-| [DHT2MQTT](https://github.com/kpetremann/dht2mqtt) | IoT, observability | true | alpha | Go |
+| [MQTT Exporter](https://github.com/kpetremann/mqtt-exporter) | IoT, observability | true | stable | Python |
+| [DHT2MQTT](https://github.com/kpetremann/dht2mqtt) | IoT | true | alpha | Go |
 | [ClawNetwork](https://github.com/kpetremann/claw-network) | Infrastructure | true | alpha | Go |
 | 2D game | Game development | false | prototype | Go, Ebitengine, LDTK |
 
