@@ -26,6 +26,10 @@ Currently a proud SRE@Criteo in the Network Datacenter team.
 | [netprobify](https://github.com/criteo/netprobify) | Probing | true | stable | Python |
 | [AFK](https://criteo.github.io/AFK) | Infrastructure, network, automation | true | alpha | Go, Python, Salt, NetBox |
 
+## Articles
+
+- [Salt Exporter: the story behind the tool](https://dev.to/k_petrem/salt-exporter-the-story-behind-the-tool-56ml)
+
 ### Languages and Tools
 
 <p align="left">
