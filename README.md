@@ -8,6 +8,10 @@ Currently a proud SRE@Criteo in the Network Datacenter team.
 - :wrench: Actively maintaining [Salt Exporter](https://github.com/kpetremann/salt-exporter)  and [MQTT Exporter](https://github.com/kpetremann/mqtt-exporter)
 - :speech_balloon: Ask me about **Python, Golang, Network, Saltstack, OpenConfig, SONiC**
 
+### Articles
+
+- [Salt Exporter: the story behind the tool](https://dev.to/k_petrem/salt-exporter-the-story-behind-the-tool-56ml)
+
 ### My personal projects
 
 | **Project** | **Category** | **Opensource** | **Status** | **Tech** |
@@ -25,10 +29,6 @@ Currently a proud SRE@Criteo in the Network Datacenter team.
 |---|---|---|---|---|
 | [netprobify](https://github.com/criteo/netprobify) | Probing | true | stable | Python |
 | [AFK](https://criteo.github.io/AFK) | Infrastructure, network, automation | true | alpha | Go, Python, Salt, NetBox |
-
-### Articles
-
-- [Salt Exporter: the story behind the tool](https://dev.to/k_petrem/salt-exporter-the-story-behind-the-tool-56ml)
 
 ### Languages and Tools
 
