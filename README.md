@@ -10,6 +10,7 @@ Currently a proud SRE@Criteo in the Network Datacenter team.
 
 ### Articles
 
+- [netprobify: do you probe your network?](https://medium.com/criteo-engineering/do-you-probe-your-network-a00c0ea1f994)
 - [Salt Exporter: the story behind the tool](https://dev.to/k_petrem/salt-exporter-the-story-behind-the-tool-56ml)
 
 ### My personal projects
