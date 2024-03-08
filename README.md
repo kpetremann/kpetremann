@@ -6,7 +6,7 @@ Currently a proud SRE@Criteo in the Network Datacenter team.
 
 - :telescope: I’m currently working on [**AFK**](https://criteo.github.io/AFK), the new Criteo's network automation framework.
 - :wrench: Actively maintaining [Salt Exporter](https://github.com/kpetremann/salt-exporter)  and [MQTT Exporter](https://github.com/kpetremann/mqtt-exporter)
-- :speech_balloon: Ask me about **Python, Golang, Network, Saltstack, OpenConfig, SONiC**
+- :speech_balloon: Ask me about **Python, Golang, Network, Salt, OpenConfig, SONiC**
 
 ### Articles
 
