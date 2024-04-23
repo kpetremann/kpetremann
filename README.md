@@ -10,7 +10,11 @@ Currently a proud SRE@Criteo in the Network Datacenter team.
 
 ### Articles
 
+For Criteo:
 - [netprobify: do you probe your network?](https://medium.com/criteo-engineering/do-you-probe-your-network-a00c0ea1f994)
+- [SONiC: let’s migrate from proprietary to Open Source!](https://medium.com/criteo-engineering/sonic-lets-migrate-from-proprietary-to-open-source-94b03851ccca)
+
+Personal:
 - [Salt Exporter: the story behind the tool](https://dev.to/k_petrem/salt-exporter-the-story-behind-the-tool-56ml)
 - [How I do technology watch](https://dev.to/k_petrem/how-i-do-technology-watch-lmf)
 
