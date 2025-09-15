@@ -25,7 +25,7 @@ Personal:
 | [Jackadi](https://github.com/jackadi-io/jackadi) | Infrastructure, observability | true | aloha | Go |
 | [Salt Exporter](https://github.com/kpetremann/salt-exporter) | Infrastructure, observability | true | stable | Go |
 | [MQTT Exporter](https://github.com/kpetremann/mqtt-exporter) | IoT, observability | true | stable | Python |
-| [DHT2MQTT](https://github.com/kpetremann/dht2mqtt) | IoT | true | alpha | Go |
+| [DHT2MQTT](https://github.com/kpetremann/dht2mqtt) | IoT | true | stable | Go |
 | [ClawNetwork](https://github.com/kpetremann/claw-network) | Infrastructure | true | alpha | Go |
 | 2D game | Game development | false | prototype | Go, Ebitengine, LDTK |
 
