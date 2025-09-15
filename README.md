@@ -2,11 +2,11 @@
 
 ### A little about me
 
-Currently a proud SRE@Criteo in the Network Datacenter team.
+Currently a SRE@Criteo in the Network Datacenter team.
 
-- :telescope: I’m currently working on [**AFK**](https://criteo.github.io/AFK), the new Criteo's network automation framework.
+- :telescope: I’m currently working on [**Jackadi**](https://github.com/jackadi-io/jackadi), a developer-first automation platform.
 - :wrench: Actively maintaining [Salt Exporter](https://github.com/kpetremann/salt-exporter)  and [MQTT Exporter](https://github.com/kpetremann/mqtt-exporter)
-- :speech_balloon: Ask me about **Python, Golang, Network, Salt, OpenConfig, SONiC**
+- :speech_balloon: Ask me about **Go, Python, Network, Automation, OpenConfig, SONiC**
 
 ### Articles
 
@@ -22,6 +22,7 @@ Personal:
 
 | **Project** | **Category** | **Opensource** | **Status** | **Tech** |
 |---|---|---|---|---|
+| [Jackadi](https://github.com/jackadi-io/jackadi) | Infrastructure, observability | true | aloha | Go |
 | [Salt Exporter](https://github.com/kpetremann/salt-exporter) | Infrastructure, observability | true | stable | Go |
 | [MQTT Exporter](https://github.com/kpetremann/mqtt-exporter) | IoT, observability | true | stable | Python |
 | [DHT2MQTT](https://github.com/kpetremann/dht2mqtt) | IoT | true | alpha | Go |
