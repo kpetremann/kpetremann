@@ -35,7 +35,7 @@ Personal:
 | **Project** | **Category** | **Opensource** | **Status** | **Tech** |
 |---|---|---|---|---|
 | [netprobify](https://github.com/criteo/netprobify) | Probing | true | stable | Python |
-| [AFK](https://criteo.github.io/AFK) | Infrastructure, network, automation | true | alpha | Go, Python, Salt, NetBox |
+| [AFK](https://criteo.github.io/AFK) | Infrastructure, network, automation | true | prod ready | Go, Python, Salt, NetBox |
 
 ### Languages and Tools
 
